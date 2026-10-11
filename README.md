@@ -1,4 +1,10 @@
-## Hi there 👋
+## About me
+- I'm currently working on a simple web application helping me better understand Qubit states, quantum gates, and quantum computing circuits
+- Besides that, I am working on a calculator that can take Latex Inline Math code as input and produce numerical outputs, this project I am working on without an AI to get better at programming.
+
+## Studies
+- Currently studying a Master's degree in Quantum Information Science & Technology, a joint degree between the TU Delft and the University of Leiden. Here, I specialise in Quantum Computing, Quantun Algorithms, and Quantum Machine Learning
+- I have 2 Bachelor's degrees in both Computer Science and Information Science
 
 <!--
 **GijsCK/GijsCK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
