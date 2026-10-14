@@ -1,4 +1,4 @@
-# About me👋
+# About me
 
 My name is Gijs and I'm a Master's student in **Quantum Information Science & Technology**, a joint programme between TU Delft and Leiden University.
 
